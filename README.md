@@ -2,6 +2,7 @@ XXX IMPORTANT! DELETE THIS LINE AND THIS SECTION BEFORE YOU REVISE YOUR README A
  
 The General Requirements and Game Requirements are shown below as a convenience. If you don’t already have a way to make sure you are satisfying all project requirements,this README.md file or copy/paste it somewhere else/print it. 
 
+
 General Requirements
 
 _____ - This is a solo project! (Just to clarify, you may do the same game as another student, but you may not work together.)
@@ -15,6 +16,7 @@ _____ - This game must be tracked in Github, with a minimum of 10 commits.
 _____ - Ideally, put your empty project up on Github on day one of development and aim for multiple commits per day.
 
 _____ - This game must be deployed on Github Pages or another location.
+
 
 Game Requirements
 
@@ -41,7 +43,7 @@ _____ - The GitHub repository for your game should have a README.md that describ
 
 --------
 
-#Title of Project (This is usually at the top of a repo's main README.md file.)
+## Title of Project (This is usually at the top of a repo's main README.md file.)
 
 ## Description
 
@@ -50,7 +52,7 @@ _(Replace this text with a brief description of your game and what inspired you 
 
 ## Deployment
 
-The web game is deployed at <YOUR DEPLOYED GITHUB.IO URL GOES HERE>.
+The web game is deployed at __________________ (YOUR DEPLOYED GITHUB.IO URL).
 
 
 ## Game Logic
@@ -76,27 +78,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________
 ```
 
-## Deliverables
-
->Even if you have a great big idea for a game, it's important to scope this project according to what you can get done in the next two weeks. We'll refer to your project completion goal using the term **[Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)** -- a list of the criteria needed to "ship" a playable version of your game that meets the project requirements.
->
->*Don't lose sight of your big ideas, though! Keep a list of further improvements you can refer to as **Post-MVP Ideas**. You might finish some before our project time is done, or you might work on them later!*
->
-> For your README, delete this blockquote and fill in the lists below.
-
-
-### MVP Criteria
-
-XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND THEN DELETE THIS LINE XXX
-
-- One thing my game must do to meet my minimum standard.
-- Another thing.
-- Etc.
-
-
 ### Post-MVP Plans
 
-XXX IMPORTANT! Replace the text below as you list what you would do to improve the game post-MVP AND THEN DELETE THIS LINE XXX
+XXX Replace the text below as you list with your own text then delete this line. XXX
 
 - One great idea I hope to be able to add in before the project deadline.
 - Another that will be a stretch.
